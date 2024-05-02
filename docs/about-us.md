@@ -9,7 +9,7 @@ hero_height: is-fullwidth
 <table>
 
 <tr>
-<td><img src="/docs/images/florent.png" width="750"></td>
+<td><img src="../images/florent.png" width="750"></td>
 <td><div markdown="1">
   **Florent Teichteil-Königsbuch** is an expert in AI Decision-Making and Combinatorial Optimization
   in Airbus Central Research and Technology. After graduating as a PhD in Artificial Intelligence from the University
@@ -26,7 +26,7 @@ hero_height: is-fullwidth
 </tr>
 
 <tr>
-<td><img src="/docs/images/alexandre.jpeg" width="750"></td>
+<td><img src="../images/alexandre.jpeg" width="750"></td>
 <td><div markdown="1">
   **Alexandre Arnold** is an AI Senior Research Scientist working at Airbus Central Research and Technology
   in the Artificial Intelligence domain. He is an expert in Reinforcement Learning
@@ -45,7 +45,7 @@ hero_height: is-fullwidth
 </tr>
 
 <tr>
-<td><img src="/docs/images/guillaume.jpeg" width="750"></td>
+<td><img src="../images/guillaume.jpeg" width="750"></td>
 <td><div markdown="1">
   **Guillaume Povéda** is a research engineer in Airbus Central Research and Technology.
   After an aerospace engineering school, and a research degree in operational research,
@@ -61,7 +61,7 @@ hero_height: is-fullwidth
 </tr>
 
 <tr>
-<td><img src="/docs/images/sylvie.jpeg" width="750"></td>
+<td><img src="../images/sylvie.jpeg" width="750"></td>
 <td><div markdown="1">
   **Sylvie Thiébaux** is a professor of computer science at the Australian National University
   and a directrice de recherche at the University of Toulouse. Her research interests are
