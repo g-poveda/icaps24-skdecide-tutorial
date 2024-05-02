@@ -2,13 +2,14 @@
 title: "ICAPS 2024 Tutorial on Scikit-Decide"
 subtitle: About Us
 layout: page
+hero_height: is-fullwidth
 ---
 
 # About us
 <table>
 
 <tr>
-<td><img src="/pictures/florent.png" width="750"></td>
+<td><img src="./images/florent.png" width="750"></td>
 <td><div markdown="1">
   **Florent Teichteil-Königsbuch** is an expert in AI Decision-Making and Combinatorial Optimization
   in Airbus Central Research and Technology. After graduating as a PhD in Artificial Intelligence from the University
@@ -25,7 +26,7 @@ layout: page
 </tr>
 
 <tr>
-<td><img src="/pictures/alexandre.jpeg" width="750"></td>
+<td><img src="./images/alexandre.jpeg" width="750"></td>
 <td><div markdown="1">
   **Alexandre Arnold** is an AI Senior Research Scientist working at Airbus Central Research and Technology
   in the Artificial Intelligence domain. He is an expert in Reinforcement Learning
@@ -44,7 +45,7 @@ layout: page
 </tr>
 
 <tr>
-<td><img src="/pictures/guillaume.jpeg" width="750"></td>
+<td><img src="./images/guillaume.jpeg" width="750"></td>
 <td><div markdown="1">
   **Guillaume Povéda** is a research engineer in Airbus Central Research and Technology.
   After an aerospace engineering school, and a research degree in operational research,
@@ -60,7 +61,7 @@ layout: page
 </tr>
 
 <tr>
-<td><img src="/pictures/sylvie.jpeg" width="750"></td>
+<td><img src="./images/sylvie.jpeg" width="750"></td>
 <td><div markdown="1">
   **Sylvie Thiébaux** is a professor of computer science at the Australian National University
   and a directrice de recherche at the University of Toulouse. Her research interests are

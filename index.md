@@ -3,6 +3,7 @@ title: "ICAPS 2024 Tutorial on Scikit-Decide"
 subtitle: "A Hands-On Tutorial on Scikit-Decide, the Open-Source C++ and Python Library for
 Planning, Scheduling and Reinforcement Learning"
 layout: page
+hero_height: is-fullwidth
 ---
 
 ### Summary
