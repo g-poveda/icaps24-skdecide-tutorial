@@ -35,7 +35,7 @@ def install_skdecide(using_nightly_version=True, force_reinstall=False):
 
         # get proper wheel name according to python version and platform used
         wheel_pythonversion_tag = f"cp{sys.version_info.major}{sys.version_info.minor}"
-        translate_platform_name = {'Linux': ' manylinux', 'Darwin': 'macosx', 'Windows': 'win'}
+        translate_platform_name = {'Linux': 'manylinux', 'Darwin': 'macosx', 'Windows': 'win'}
         platform_name = translate_platform_name[platform.system()]
         machine_name = platform.machine()
         wheel_path = glob.glob(
